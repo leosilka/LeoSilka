@@ -30,4 +30,4 @@
   <a href="https://www.linkedin.com/in/leonardosilka/" tager="blank"><img align="center" height="20" widht="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div> 
     
-![snake gif](https://github.com/leosilka/leosilka/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/leosilka/LeoSilka/blob/output/github-contribution-grid-snake.svg)
