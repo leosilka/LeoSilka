@@ -2,7 +2,6 @@
 
 - 💼 Estágio em Suporte Técnico
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistema
-- 📔 3ª Período - Cruzeiro do Sul
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leosilka&hide=contribs,prs&show_icons=true&theme=midnight-purple" />
