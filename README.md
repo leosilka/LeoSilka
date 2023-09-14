@@ -1,6 +1,5 @@
 ## Olá, Seja Bem-vindo(a)
 
-- 💼 Estágio em Suporte Técnico
 - 👨‍💻 Estudante de Análise e Desenvolvimento de Sistema
 
 <div>
