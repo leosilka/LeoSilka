@@ -1,22 +1,24 @@
 ## Olá, Seja Bem-vindo(a)
 
-- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistema
+- 👨‍💻 Graduado em Análise e Desenvolvimento de Sistema
+- 💼 Desenvolvedor Full Stack na Code 21
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leosilka&hide=contribs,prs&show_icons=true&theme=midnight-purple" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leosilka&layout=compact&theme=midnight-purple" />
 </div>
 <div>
-  <img align="center" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+  <img align="center" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" />
   <img align="center" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="center" height="100" widht="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" />
+  <img align="center" height="100" widht="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+  <img align="center" height="50" widht="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
 </div>
 
 <div>
-<img align="right" height="100" widht="100" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
+  <img align="right" height="100" widht="100" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 </div>
 
 ##
